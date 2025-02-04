@@ -30,13 +30,4 @@ This update coming soon before tomorrow
 
 [![Enroll Now](https://img.shields.io/badge/Enroll-Now-blue.svg)](https://www.udemy.com/course/mern-stack-complete-blog-application-from-scratch-2021/?referralCode=5E579E09DB87E37D4910)
 
-## Connect With Us
-
-We're committed to building a supportive and engaging community of learners and developers. Connect with us and your peers through:..
-
-- **Personal Website**: [Visit MasyncTech](https://masynctech.com/)
-- **Facebook**: [Follow us on Facebook](https://www.facebook.com/masynctech)
-- **YouTube**: [Subscribe to our YouTube channel](https://www.youtube.com/channel/UCqgi3TTpWwO22hIxzPOLhWw)
-- **Discord**: [Join our Discord community](https://discord.com/invite/k8X6W9DC2Q)
-
 Thank you for choosing our MERN Stack Project-Based Course. We're excited to see what you build and how far you go!
